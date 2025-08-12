@@ -1,0 +1,13 @@
+jax~=0.5.0
+equinox~=0.11.11
+diffrax~=0.6.2
+numba~=0.61.2
+interpax~=0.3.6
+numpy~=1.26.4
+tqdm~=4.67.1
+matplotlib~=3.10.1
+optax~=0.2.4
+wandb~=0.19.7
+distrax~=0.1.5
+jaxtyping~=0.2.38
+dm_control~=1.0.31
